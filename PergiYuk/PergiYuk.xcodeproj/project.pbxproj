@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		19E9675528DDB3CF008FD86C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E9675428DDB3CF008FD86C /* Model.swift */; };
 		26CC9E0E28DDB07300CFBA06 /* PergiYukApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CC9E0D28DDB07300CFBA06 /* PergiYukApp.swift */; };
 		26CC9E1028DDB07300CFBA06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CC9E0F28DDB07300CFBA06 /* ContentView.swift */; };
 		26CC9E1228DDB07300CFBA06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26CC9E1128DDB07300CFBA06 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		19E9675428DDB3CF008FD86C /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		26CC9E0A28DDB07300CFBA06 /* PergiYuk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PergiYuk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26CC9E0D28DDB07300CFBA06 /* PergiYukApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PergiYukApp.swift; sourceTree = "<group>"; };
 		26CC9E0F28DDB07300CFBA06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				26CC9E0D28DDB07300CFBA06 /* PergiYukApp.swift */,
 				26CC9E0F28DDB07300CFBA06 /* ContentView.swift */,
+				19E9675428DDB3CF008FD86C /* Model.swift */,
 				26CC9E1128DDB07300CFBA06 /* Assets.xcassets */,
 				26CC9E1328DDB07300CFBA06 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19E9675528DDB3CF008FD86C /* Model.swift in Sources */,
 				26CC9E1028DDB07300CFBA06 /* ContentView.swift in Sources */,
 				26CC9E0E28DDB07300CFBA06 /* PergiYukApp.swift in Sources */,
 			);
